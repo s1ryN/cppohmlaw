@@ -1,2 +1,2 @@
 # cppohmlaw
-Ohm Law calculator
+Kalkulačka pro ohmův zákon, velice jednoduchá
