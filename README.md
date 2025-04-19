@@ -1,0 +1,2 @@
+# cppohmlaw
+Ohm Law calculator
